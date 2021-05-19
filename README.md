@@ -9,8 +9,8 @@ I love exploring and solving new challenges, studying in the mornings, especiall
 
 - 📍 From PB living in João Pessoa
 - 💻 Front-End estudant 
-- ✨c Showing a little bit of my walk to a successful front-end dev  ([Instagram](https://instagram.com/samuelmedeiros__))
+- ✨ Showing a little bit of my walk to a successful front-end dev  ([Instagram](https://instagram.com/samuelmedeiros__))
 
-Reach me out 👇🏼
+Follow me 👇🏼
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/samuelmedeiros__/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/samuelmedeiros__/)](https://www.instagram.com/samuelmedeiros__/) 
