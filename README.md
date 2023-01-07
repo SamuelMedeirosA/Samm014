@@ -1,7 +1,7 @@
 # Hey 👋
 
 My name is Samuel Medeiros 🧑
-I'm just a student, I intend to become a full stack developer in the future and I've been studying front-end technologies since I was 9 years old.💻
+I'm just a student, I intend to become a full stack developer in the future and I've been studying front-end technologies since I was 10 years old.💻
 
 I love exploring and solving new challenges, studying in the mornings, especially on weekends and doing new projects.
 
